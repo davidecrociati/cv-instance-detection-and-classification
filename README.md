@@ -1,1 +1,1 @@
-# cv-instance-detection-and-classification
+# Computer Vision - Instance detection and classification
